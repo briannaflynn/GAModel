@@ -9,4 +9,4 @@ pip install pygam pandas matplotlib
 
 # deactivate when done
 ```
-
+#### Example in python notebook
